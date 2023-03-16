@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+T:\LTHSK_Java\Week4New\.metadata\.plugins\org.eclipse.jdt.core
+3357754113.index
+1552042055.index
